@@ -57,6 +57,10 @@ Solution driven Frontend developer with 2 years of experience. I've been involve
 
 ![Mateen's GitHub stats](https://github-readme-stats.vercel.app/api?username=matmaxgraphics&show_icons=true)
 
+---
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmaxgraphics&layout=compact)
+
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/mateenUI
