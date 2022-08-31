@@ -17,7 +17,6 @@ Solution driven Frontend developer with 2 years of experience. I've been involve
 
 [![website](./img/globe-light.svg)](https://mateen-ui.vercel.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://mateen-ui.vercel.app#gh-dark-mode-only)
-
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/mateenUI#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mateenUI#gh-dark-mode-only)
