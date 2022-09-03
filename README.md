@@ -2,7 +2,7 @@
 
 Solution driven Frontend developer with 2 years of experience. I've been involved in the designing and development of high-performance websites in collaboration with other creatives to give both clients and end users optimum satisfaction. Proven experience developing consumer-focused websites using HTML, CSS and JavaScript. I love solving problems with my skill, collaborating with other creators and helping startups come up with solutions.
 
-## I'm a Student, Developer, and User Interface Designer!!
+## I'm a Frontend Developer, student and User Interface Designer!!
 
 - 🌱 I’m currently learning **JavaScript Development**
 - 👯 I’m looking to collaborate with other content creators
