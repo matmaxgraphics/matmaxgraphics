@@ -1,6 +1,7 @@
 # Hi there, I'm Mateen - aka matmax 👋
 
-Solution driven Frontend developer with 2 years of experience. I've been involved in the designing and development of high-performance websites in collaboration with other creatives to give both clients and end users optimum satisfaction. Proven experience developing consumer-focused websites using HTML, CSS and JavaScript. I love solving problems with my skill, collaborating with other creators and helping startups come up with solutions.
+A Frontend Developer and community manager at TAZ creative group. Over the years, I've helped craft web solutions to address diverse business challenges and meet organizational needs.
+Driven by a deep passion for unraveling the intricacies of front-end web development, I thrive as a solution-oriented developer, dedicated to translating problems into innovative solutions. My commitment to skill enhancement is unwavering, ensuring I stay at the forefront of industry trends and advancements.
 
 ## I'm a Frontend Developer, student and User Interface Designer!!
 
@@ -47,8 +48,8 @@ Solution driven Frontend developer with 2 years of experience. I've been involve
 
 <!-- PROJECT-LIST:START -->
 
+- [Anyworkx Africa - Find a professional service provider in seconds](https://www.anyworkx.africa)
 - [Unknownsatoshi - A crypto education website](https://unknownsatoshi.com)
-- [The story of $KINU - A Manga game blockchain project website](https://kimetsu-inu.vercel.app)
 - [ TAZ Creative (full website coming soon)](https://tazcreative.io)
 
 <!-- PROJECT-LIST:END -->
