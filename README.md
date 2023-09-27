@@ -5,9 +5,9 @@ Driven by a deep passion for unraveling the intricacies of front-end web develop
 
 ## I'm a Frontend Developer, student and User Interface Designer!!
 
-- 🌱 I’m currently learning **JavaScript Development**
+- 🌱 I’m currently learning **React JS with NextJS**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2022 Goals: Learn more about JavaScript, web accessibility and web3
+- 🥅 2023 Goals: Learn more about Content Creation, software scalabilty, web accessibility and web3
 - ⚡ Fun fact: I love to watch SciFi movies and network with creatives
 - 🐱‍🏍 Someday, would love to create an **open source** project(s) to give back to the community
 - ✉ How to reach me: Send a mail to [my address](mateendeveloper@gmail.com)
