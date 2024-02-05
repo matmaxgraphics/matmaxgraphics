@@ -1,13 +1,13 @@
 # Hi there, I'm Mateen - aka matmax 👋
 
-A Frontend Developer and community manager at TAZ creative group. Over the years, I've helped craft web solutions to address diverse business challenges and meet organizational needs.
+A Frontend Developer and community manager at TAZ Creative Group. Over the years, I've helped craft web solutions to address diverse business challenges and meet organizational needs.
 Driven by a deep passion for unraveling the intricacies of front-end web development, I thrive as a solution-oriented developer, dedicated to translating problems into innovative solutions. My commitment to skill enhancement is unwavering, ensuring I stay at the forefront of industry trends and advancements.
 
-## I'm a Frontend Developer, student and User Interface Designer!!
+## I'm a Frontend Developer, student, and User Interface Designer!!
 
 - 🌱 I’m currently learning **React JS with NextJS**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more about Content Creation, software scalabilty, web accessibility and web3
+- 🥅 2024 Goals: Learn more about Content Creation, software scalability, web accessibility and web3
 - ⚡ Fun fact: I love to watch SciFi movies and network with creatives
 - 🐱‍🏍 Someday, would love to create an **open source** project(s) to give back to the community
 - ✉ How to reach me: Send a mail to [my address](mateendeveloper@gmail.com)
