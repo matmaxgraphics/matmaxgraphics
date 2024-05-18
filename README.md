@@ -5,7 +5,7 @@ Driven by a deep passion for unraveling the intricacies of front-end web develop
 
 ## I'm a Frontend Developer, student, and User Interface Designer!!
 
-- 🌱 I’m currently learning **React JS with NextJS**
+- 🌱 I’m currently learning **NextJS**
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2024 Goals: Learn more about Content Creation, software scalability, web accessibility and web3
 - ⚡ Fun fact: I love to watch SciFi movies and network with creatives
@@ -16,8 +16,8 @@ Driven by a deep passion for unraveling the intricacies of front-end web develop
 
 ### Connect with me:
 
-[![website](./img/globe-light.svg)](https://mateen-ui.vercel.app#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://mateen-ui.vercel.app#gh-dark-mode-only)
+[![website](./img/globe-light.svg)](https://mateen-io.vercel.app#gh-light-mode-only)
+[![website](./img/globe-dark.svg)](https://mateen-io.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/mateenUI#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/mateenUI#gh-dark-mode-only)
