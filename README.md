@@ -3,11 +3,11 @@
 A Frontend Developer and community manager at TAZ Creative Group. Over the years, I've helped craft web solutions to address diverse business challenges and meet organizational needs.
 Driven by a deep passion for unraveling the intricacies of front-end web development, I thrive as a solution-oriented developer, dedicated to translating problems into innovative solutions. My commitment to skill enhancement is unwavering, ensuring I stay at the forefront of industry trends and advancements.
 
-## I'm a Frontend Developer, student, and User Interface Designer!!
+## I'm a Frontend Engineer, student, and User Interface Designer!!
 
-- 🌱 I’m currently learning **NextJS**
+- 🌱 I’m currently improving on my **Software development skill**
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2024 Goals: Learn more about Content Creation, software scalability, web accessibility and web3
+- 🥅 2025 Goals: Software scalability, web accessibility and web3
 - ⚡ Fun fact: I love to watch SciFi movies and network with creatives
 - 🐱‍🏍 Someday, would love to create an **open source** project(s) to give back to the community
 - ✉ How to reach me: Send a mail to [my address](mateendeveloper@gmail.com)
@@ -19,8 +19,8 @@ Driven by a deep passion for unraveling the intricacies of front-end web develop
 [![website](./img/globe-light.svg)](https://mateen-io.vercel.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://mateen-io.vercel.app#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/mateenUI#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/mateenUI#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/mateen_devI#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/mateen_dev#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://linkedin.com/in/mateen-gbadamosi#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://linkedin.com/in/mateen-gbadamosi#gh-dark-mode-only)
@@ -48,9 +48,10 @@ Driven by a deep passion for unraveling the intricacies of front-end web develop
 
 <!-- PROJECT-LIST:START -->
 
+- [CareerConnentNG - Master in-demand tech skills & gget career mentorship](https://www.careerconnect.ng)
+- [VolumeVault - A campaign landing page for a volume trading bot](https://volumevault.pro)
 - [Anyworkx Africa - Find a professional service provider in seconds](https://www.anyworkx.africa)
-- [Unknownsatoshi - A crypto education website](https://unknownsatoshi.com)
-- [ TAZ Creative (full website coming soon)](https://tazcreative.io)
+- [ TAZ Creative](https://tazcreative.io)
 
 <!-- PROJECT-LIST:END -->
 
@@ -62,8 +63,9 @@ Driven by a deep passion for unraveling the intricacies of front-end web develop
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=matmaxgraphics&layout=compact)
 
-[website]: https://mateen-ui.vercel.app.com
+[website]: https://mateen-io.vercel.app
 <!-- [course]: http://vsCodeHero.com -->
-[twitter]: https://twitter.com/mateenUI
+[twitter]: https://twitter.com/mateen_dev
 [instagram]: https://instagram.com/mateen.ui
 [linkedin]: https://linkedin.com/in/mateen-gbadamosi
+
